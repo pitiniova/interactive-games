@@ -1,0 +1,129 @@
+header {
+    font-size: 40px;
+    font-family: sans-serif;
+    color: #1c1c1c;
+}
+
+section {
+    width: 100px;
+    height: 100px;
+    background: #877b81;
+    transition: background-color 3s, width 3s;
+}
+
+section:hover {
+    width: 500px;
+    background-color: #5c32a6;
+}
+
+p {
+    font-size: 25px;
+    font-family: sans-serif;
+    background-color: #dadada;
+    color: #666666;
+}
+
+#div1 {
+    width: 100px;
+    height: 100px;
+    background: #ffffff;
+    transition: background-color 3s, width 3s;
+}
+
+#div1:hover {
+    width: 500px;
+    background-color: #ec2222;
+}
+
+#div2 {
+    width: 100px;
+    height: 100px;
+    background: #ffffff;
+    transition: background-color 3s, width 3s;
+}
+
+#div2:hover {
+    width: 500px;
+    background-color: #f19721;
+}
+
+#div3 {
+    width: 100px;
+    height: 100px;
+    background: #ffffff;
+    transition: background-color 3s, width 3s;
+}
+
+#div3:hover {
+    width: 500px;
+    background-color: #ece923;
+}
+
+
+#div4 {
+    width: 100px;
+    height: 100px;
+    background: #ffffff;
+    transition: background-color 3s, width 3s;
+}
+
+#div4:hover {
+    width: 500px;
+    background-color: #4eeb1e;
+}
+
+
+#div5 {
+    width: 100px;
+    height: 100px;
+    background: #ffffff;
+    transition: background-color 3s, width 3s;
+}
+
+#div5:hover {
+    width: 500px;
+    background-color: #4adddd;
+}
+
+
+#div6 {
+    width: 100px;
+    height: 100px;
+    background: #ffffff;
+    transition: background-color 3s, width 3s;
+}
+
+#div6:hover {
+    width: 500px;
+    background-color: #2741d6;
+}
+
+
+#div7 {
+    width: 100px;
+    height: 100px;
+    background: #ffffff;
+    transition: background-color 3s, width 3s;
+}
+
+#div7:hover {
+    width: 500px;
+    background-color: #6d37ca;
+}
+
+footer {
+    height: 250px;
+}
+
+p1 {
+    font-size: 15px;
+    font-family: sans-serif;
+    color: #797979;
+}
+
+#feat {
+    font-size: 15px;
+    font-family: sans-serif;
+    color: #797979;
+    margin-bottom: 50px;
+}
